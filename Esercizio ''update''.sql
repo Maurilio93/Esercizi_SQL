@@ -1,3 +1,3 @@
 UPDATE books 
-SET prezzo = 9.99, numero_scorte = 4 
+SET price = 9.99, stock_count = 4 
 WHERE isbn = '1234567890124';
