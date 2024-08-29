@@ -1,0 +1,1 @@
+REVOKE INSERT ON books FROM 'martin'@'localhost';
