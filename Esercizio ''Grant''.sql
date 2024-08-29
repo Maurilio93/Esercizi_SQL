@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT ON books TO 'martin'@'localhost';
